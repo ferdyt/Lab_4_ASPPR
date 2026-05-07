@@ -7,7 +7,7 @@ const string ERROR_OUT_OF_BOUNDS = "Помилка! Рядок виходить 
 const string ERROR_NOT_NUMBER = "Помилка! '{0}' не є числом. Спробуйте ще раз.";
 const string ERROR_INCONSISTENT = "Система обмежень є суперечливою";
 const string ERROR_UNBOUNDED = "Цiльова функцiя необмежена";
-const string ERROR_CANT_MODIFY_Z = "Помилка! Неможливо змінити рядок Z.";
+const string ERROR_CANT_MODIFY_Z = "Помилка! Неможливо змiнити рядок Z.";
 const string ERROR_INVALID_CHOICE = "Помилка! Введено некоректний вибiр. Спробуйте ще раз.";
 const string ERROR_INVALID_NUMBER = "Помилка! Введено некоректне число. Спробуйте ще раз.";
 
